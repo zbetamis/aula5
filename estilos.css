@@ -1,0 +1,20 @@
+body{
+	background: #333333;  
+background: -webkit-linear-gradient(to right, #dd1818, #333333);  
+background: linear-gradient(to right, #dd1818, #333333);
+
+
+}
+.ttg{
+	text-align: center;
+	font-size:35px;
+	font-family: arial;
+
+}
+p{
+	text-align: justify;
+	font-size: 19px;
+	text-indent: 30px;
+	font-family:arial;
+	text-shadow: 2px 2px 5px white;
+}
